@@ -1,0 +1,9 @@
+p.uppercase {
+    text-transform: uppercase;
+}
+p.capitalize {
+    text-transform: capitalize;
+}
+body{
+	background-color:cyan;
+}
